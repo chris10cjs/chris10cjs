@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Christian Silvero</h1>
+<h1 align="center">Hola 👋, Soy Christian Silvero</h1>
 <h3 align="center">Full Stack Developer, apasionado por el FrontEnd.</h3>
 
 - 🔭 Acualmente trabajando en un MarketPlace de e-commerce. [CocoMall](https://github.com/AgustinMaurel/CocoMall)
 
 - 🌱 En constante aprendizaje y en vista de **TypeScript, React Native, Java, Kotlin.**
 
-- 💬 Puedes consultarme por **Javascript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL.**
+- 💬 Mis skills son **Javascript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL.**
 
 - 📫 Mi dirección de email es **silvero355@gmail.com**
 
